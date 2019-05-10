@@ -1,4 +1,4 @@
-# Behavioural Science: Implication and Application
+# Behavioural Science: Implication and Application (BSIA)
 
 The code here is to my assignment answer. The assignment is about Schelling's model of segregration' (Schelling). However, take it at your own risk.
 
