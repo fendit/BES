@@ -7,6 +7,7 @@
 
 ### Choosing between options A and B:
 A: (200, .9; 22, .05; 20, .05)
+
 B: (200, .85; 190, .05; 20, .1)
 
 ### Software: Matlab and R
