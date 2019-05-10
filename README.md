@@ -1,9 +1,9 @@
-#Behavioural Science: Implication and Application
+# Behavioural Science: Implication and Application
 
-#The code here is to my assignment answer
+The code here is to my assignment answer. The assignment is about Schelling's model of segregration' (Schelling). However, take it at your own risk.
 
-#However, take it at your own risk
-
-#The assignment is about Schelling's model of segregration' (Schelling)
-
-#Here are four variables: Tolerance level (Tolerance), Different proportions (Different_prop), Larger Neighbourhood (LargeNeighbourhood), Adjacent Neighbours (AdjacentNeighbours)
+Here are four variables: 
+1. Tolerance level (Tolerance)
+1. Different proportions (Different_prop)
+1. Larger Neighbourhood (LargeNeighbourhood)
+1. Adjacent Neighbours (AdjacentNeighbours)
